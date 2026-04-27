@@ -1,0 +1,48 @@
+# ninja log v6
+13	1620	7989242855350764	HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+13	1620	7989242855350764	HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+13	1620	7989242855350764	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+13	1620	7989242855350764	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+1727	6025	7989242857767362	CMakeFiles/HEFTVisualizer.dir/src/TaskDetailsPanel.cpp.obj	d5fddf61211e1bd1
+1711	6510	7989242857603006	CMakeFiles/HEFTVisualizer.dir/src/ComparisonPanel.cpp.obj	6275e7adc721a55a
+1649	6827	7989242856988323	CMakeFiles/HEFTVisualizer.dir/src/main.cpp.obj	b1f899250e41ab3
+1695	6950	7989242857446244	CMakeFiles/HEFTVisualizer.dir/src/ControlPanel.cpp.obj	61d6ae03c4b45c1f
+1684	6958	7989242857334282	CMakeFiles/HEFTVisualizer.dir/src/GanttScene.cpp.obj	eea02e3ee5e2f3dc
+1642	7086	7989242856917993	CMakeFiles/HEFTVisualizer.dir/HEFTVisualizer_autogen/mocs_compilation.cpp.obj	5b03b31e3d7d8290
+1664	7568	7989242857127716	CMakeFiles/HEFTVisualizer.dir/src/AlgorithmEngine.cpp.obj	3920d3190291947
+1673	7796	7989242857213300	CMakeFiles/HEFTVisualizer.dir/src/DagScene.cpp.obj	c89f5b32230b5d59
+1656	7859	7989242857058583	CMakeFiles/HEFTVisualizer.dir/src/MainWindow.cpp.obj	d2a78006a8e8c8e6
+7860	9071	7989242919102268	HEFTVisualizer.exe	cf230b0295c5722a
+51	1097	7989253927853714	HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+51	1097	7989253927853714	HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+51	1097	7989253927853714	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+51	1097	7989253927853714	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+1106	2939	7989253929020190	CMakeFiles/HEFTVisualizer.dir/src/main.cpp.obj	b1f899250e41ab3
+1118	2963	7989253929148764	CMakeFiles/HEFTVisualizer.dir/src/ControlPanel.cpp.obj	61d6ae03c4b45c1f
+1099	3174	7989253928952358	CMakeFiles/HEFTVisualizer.dir/HEFTVisualizer_autogen/mocs_compilation.cpp.obj	5b03b31e3d7d8290
+1112	3541	7989253929097890	CMakeFiles/HEFTVisualizer.dir/src/MainWindow.cpp.obj	d2a78006a8e8c8e6
+3542	4356	7989253953390944	HEFTVisualizer.exe	cf230b0295c5722a
+56	316	7989256581058157	HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+56	316	7989256581058157	HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+56	316	7989256581058157	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+56	316	7989256581058157	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+319	2165	7989256583685685	CMakeFiles/HEFTVisualizer.dir/src/ControlPanel.cpp.obj	61d6ae03c4b45c1f
+2166	2969	7989256602149932	HEFTVisualizer.exe	cf230b0295c5722a
+67	1722	7989264423757072	HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+67	1722	7989264423757072	HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+67	1722	7989264423757072	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+67	1722	7989264423757072	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+1827	3994	7989264427514595	CMakeFiles/HEFTVisualizer.dir/src/ControlPanel.cpp.obj	61d6ae03c4b45c1f
+1733	4111	7989264426579034	CMakeFiles/HEFTVisualizer.dir/src/main.cpp.obj	b1f899250e41ab3
+1724	4222	7989264426478577	CMakeFiles/HEFTVisualizer.dir/HEFTVisualizer_autogen/mocs_compilation.cpp.obj	5b03b31e3d7d8290
+1749	4508	7989264426738432	CMakeFiles/HEFTVisualizer.dir/src/MainWindow.cpp.obj	d2a78006a8e8c8e6
+4509	5579	7989264454318965	HEFTVisualizer.exe	cf230b0295c5722a
+162	1738	7989284794671947	HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+162	1738	7989284794671947	HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+162	1738	7989284794671947	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/timestamp	38983e9d37c52a99
+162	1738	7989284794671947	C:/Users/Jana/OneDrive/Desktop/Algo Project/build/HEFTVisualizer_autogen/mocs_compilation.cpp	38983e9d37c52a99
+1748	3866	7989284796815510	CMakeFiles/HEFTVisualizer.dir/src/main.cpp.obj	b1f899250e41ab3
+1859	3993	7989284797923347	CMakeFiles/HEFTVisualizer.dir/src/ControlPanel.cpp.obj	61d6ae03c4b45c1f
+1740	4048	7989284796730481	CMakeFiles/HEFTVisualizer.dir/HEFTVisualizer_autogen/mocs_compilation.cpp.obj	5b03b31e3d7d8290
+1801	4855	7989284797347814	CMakeFiles/HEFTVisualizer.dir/src/MainWindow.cpp.obj	d2a78006a8e8c8e6
+4855	5920	7989284827887198	HEFTVisualizer.exe	cf230b0295c5722a
